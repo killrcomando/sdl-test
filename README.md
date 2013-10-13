@@ -1,2 +1,2 @@
-sfml-test
+sdl-test
 =========
